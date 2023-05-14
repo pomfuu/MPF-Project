@@ -147,3 +147,5 @@ public class Register extends Application {
 		});
 	}
 }
+
+// Test aja bang
